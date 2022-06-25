@@ -32,16 +32,6 @@ cd ./QR-Code-Generator/
  ```python
  python3 QR_code_generator.py
  ```
- 
-
-## Usage
-
- 
- 
- 
-### The GUI looks similar as below :
- 
-![](src/QR.png)
 
 
 ## Contributing
