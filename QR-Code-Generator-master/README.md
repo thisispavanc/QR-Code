@@ -51,12 +51,6 @@ If you are willing to contribute to this project, please check out
 #### [CODE OF CONDUCT](CODE_OF_CONDUCT.md) 
 #### [CONTRIBUTING](CONTRIBUTING.md)
 
-##### There was also a video created while writing the code. Watch it to know explanations of each lines written here. 
- 
- Link :
- >[Learn Overflow](https://youtu.be/ErzISUgrELk)
-
-
 ### :heart: Found this project useful?
 
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
